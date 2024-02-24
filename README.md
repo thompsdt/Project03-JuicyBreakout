@@ -7,7 +7,13 @@ Description
 
 ## Implementation
 Which features you included
-
+Colors
+highlights
+gravity animation
+screenshake
+sound effects
+music
+comet
 ## References
 
 ## Future Development
